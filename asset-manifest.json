@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.3a9664e9.chunk.css",
+    "main.js": "/reactlivewebsite/static/js/main.30535b68.chunk.js",
+    "main.js.map": "/reactlivewebsite/static/js/main.30535b68.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite/static/js/runtime-main.7dc58121.js",
+    "runtime-main.js.map": "/reactlivewebsite/static/js/runtime-main.7dc58121.js.map",
+    "static/css/2.f2512455.chunk.css": "/reactlivewebsite/static/css/2.f2512455.chunk.css",
+    "static/js/2.75b07805.chunk.js": "/reactlivewebsite/static/js/2.75b07805.chunk.js",
+    "static/js/2.75b07805.chunk.js.map": "/reactlivewebsite/static/js/2.75b07805.chunk.js.map",
+    "index.html": "/reactlivewebsite/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/reactlivewebsite/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.3a9664e9.chunk.css.map": "/reactlivewebsite/static/css/main.3a9664e9.chunk.css.map",
+    "static/js/2.75b07805.chunk.js.LICENSE.txt": "/reactlivewebsite/static/js/2.75b07805.chunk.js.LICENSE.txt",
+    "static/media/Twitter-Bootstrap.c8b7fec9.png": "/reactlivewebsite/static/media/Twitter-Bootstrap.c8b7fec9.png",
+    "static/media/bootstrap-small.d72f7fb4.png": "/reactlivewebsite/static/media/bootstrap-small.d72f7fb4.png",
+    "static/media/ffb.f99c6793.png": "/reactlivewebsite/static/media/ffb.f99c6793.png",
+    "static/media/firebase.b17cc67b.png": "/reactlivewebsite/static/media/firebase.b17cc67b.png",
+    "static/media/illustration-1.40169b0b.svg": "/reactlivewebsite/static/media/illustration-1.40169b0b.svg",
+    "static/media/illustration-2.767434d9.svg": "/reactlivewebsite/static/media/illustration-2.767434d9.svg",
+    "static/media/jq.8bf268b5.png": "/reactlivewebsite/static/media/jq.8bf268b5.png",
+    "static/media/mongo.50962a6a.png": "/reactlivewebsite/static/media/mongo.50962a6a.png",
+    "static/media/reactjs-small.9fa69994.png": "/reactlivewebsite/static/media/reactjs-small.9fa69994.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc58121.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.75b07805.chunk.js",
+    "static/css/main.3a9664e9.chunk.css",
+    "static/js/main.30535b68.chunk.js"
+  ]
+}
