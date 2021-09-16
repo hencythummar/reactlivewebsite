@@ -13,7 +13,7 @@ const Comman = (props) => {
                                 <div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
                                     <h1>{props.title}<strong className="brand_name text-primary">Kurm Infotech.</strong></h1>
                                     <h2 className="my-3 text-dark fs-5">
-                                        We are the team of talented developer making Websites
+                                        We are the team of talented developer making Website
                                     </h2>
                                     <div className="mt-3">
                                         <NavLink to={props.visit} className="btn btn-outline-primary">{props.btnname}</NavLink>
