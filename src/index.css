@@ -2,12 +2,19 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  max-width: 100%;
+  
 
 }
 .menu_active{
   font-weight: bold;
   border-bottom: 1px solid darkslategray;
+}
+.navbar .brand_name{
+  font-size: 1.9rem !important;
+
+}
+.navbar a{
+  font-size: 1.3rem;
 }
 .navbar ul{
   margin-left: auto;
@@ -23,5 +30,40 @@
    transform: translateY(-10px);
  }
 }
+
+@media (max-width:991px) {
+  .navbar .brand_name{
+    font-size: 1.5rem !important;
+  }
+  #header{
+    height: 80vh;
+    text-align: center;
+  }
+  #header .header-img{
+    text-align: center;
+  }
+  #header .header-img img{
+   width: 60%;
+  }
+}
+  
+@media (max-width:768px) {
+  #header{
+    margin-top: 20px;
+
+  }
+  #header h1{
+    font-size: 20px !important;
+  }
+  #header h2{
+    font-size: 18px !important;
+    margin-bottom: 30px;
+  }
+  #header .header-img img{
+   width: 70%;
+  }
+}
+
+
 
 
